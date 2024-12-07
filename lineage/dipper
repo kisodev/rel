@@ -1,0 +1,31 @@
+===== 20241207 =====
+dipper
+  - dipper: Use IR camera for ParanoidSense
+
+sdm845-common
+  - sdm845-common: Add IR support for ParanoidSense
+  - sdm845-common: Add props for camera and mem allocation
+  - sdm845-common: Declare WFD lib as symlink during extraction
+  - sdm845-common: Do not override ro.vendor.gpu.available_frequencies
+  - sdm845-common: Do not override ro.opengles.version
+  - sdm845-common: Sync extract scripts with 22 templates
+  - sdm845-common: Shim WFD with libgui_shim/libinput_shim
+  - Revert "sdm845-common: Build android.frameworks.sensorservice@1.0"
+  - sdm845-common: Remove copy libutils-v33
+
+====== 20241117 =====
+dipper
+  - dipper: Adjust override prop key names
+
+sdm845-common
+  - sdm845-common: Remove quotes in TARGET_RECOVERY_PIXEL_FORMAT
+  - sdm845-common: Align with new recovery structure
+  - sdm845-common: Shim widevine with libcrypto_shim
+  - sdm845-common: Ensure we build the vendor version of libcrypto_shim
+  - sdm845-common: Setup DeviceAsWebcam
+  - sdm845-common: Move usage of USB MTP/PTP functionality with USB F_FS driver
+  - sdm845-common: Migrate to QTI USB Gadget 1.2 HIDL
+  - sdm845-common: Set TARGET_USES_YCRCB_VENUS_CAMERA_ENCODE
+  - sdm845-common: Flash dummy super image if needed
+  - sdm845-common: Switch to AIDL USB Gadget HAL
+  - sdm845-common: Build android.frameworks.sensorservice@1.0
