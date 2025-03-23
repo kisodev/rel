@@ -5,7 +5,6 @@ Set bms temp_warm to 470
 Fix WPA3 crash
 Enable new QS style
 Add CertifiedPropsOverlay support
-Add custom OTA URL
 Add Dolby Atmos
 Drop dirac
 Signed build
