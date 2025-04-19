@@ -1,4 +1,4 @@
-## 2025-04-20
+# 20-Apr-2025
 - Switch to default QS
 - Fix updater URL
 - Use AOSP USB v1 audio HAL
@@ -6,7 +6,7 @@
 - Disable barrier on F2FS
 - Set background gc to auto on F2FS
 
-## 2025-04-14
+# 14-Apr-2025
 - April Security Patch
 - Increase bms temp_warm to 480
 - Kill statsd service
@@ -18,11 +18,11 @@
 - Remove direct flag for VOIP RX
 - Enable updater support
   
-## 2025-03-20
+# 20-Mar-2025
 - Adjust sb padding
 - Set bms temp_warm to 470
-  
-## 2025-03-19
+
+# 19-Mar-2025
 - Fix WPA3 crash
 - Enable new QS style
 - Add CertifiedPropsOverlay support
@@ -30,5 +30,5 @@
 - Drop dirac
 - Signed build
   
-## 2025-03-18
+# 18-Mar-2025
 - Initial release based on Android 15 QPR2
