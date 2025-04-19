@@ -17,9 +17,11 @@
 - Build libqti_vndfwk_detect.vendor:32
 - Remove direct flag for VOIP RX
 - Enable updater support
+  
 ## 2025-03-20
 - Adjust sb padding
 - Set bms temp_warm to 470
+  
 ## 2025-03-19
 - Fix WPA3 crash
 - Enable new QS style
@@ -27,5 +29,6 @@
 - Add Dolby Atmos
 - Drop dirac
 - Signed build
+  
 ## 2025-03-18
 - Initial release based on Android 15 QPR2
