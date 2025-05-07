@@ -1,5 +1,5 @@
 \- Sync latest sources  
-\- Add MiCam  
+\- Add MiCam (Portrait mode doesn't work; it seems to be an issue on the ROM source side)  
 \- IMPORTANT!! You might have an assert error while updating, if you got this error, you need to do some workarounds.  
 \- Reboot to fastbootd, fastboot delete-logical-partition scratch, fastboot delete-logical-partition product, reboot into recovery mode, and then flash the zip  
 
