@@ -1,0 +1,7 @@
+- nl80211: add WPA3 definition for SAE authentication
+- ARM64: vdso32: Hardcode toolchain target
+- scsi: ufs: disable interrupt in clk-gating
+- ufshcd: Show bogus clkscale_enable even if it's not supported
+- scsi: ufs: atomic update for clkgating_enable
+- UPSTREAM: lib/decompress_unlz4: change module to work with new LZ4 module version
+- More at https://github.com/kisodev/android_kernel_xiaomi_sdm845/commits/lineage-22/
