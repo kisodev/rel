@@ -1,0 +1,13 @@
+{
+  "kernel": {
+    "name": "perf",
+    "version": "20250510",
+    "link": "https://sourceforge.net/projects/kiso-dev/files/kernel/su/dipper/kramelsu-20250510.zip/download",
+    "changelog_url": "https://github.com/kisodev/android_kernel_xiaomi_sdm845",
+    "date": "2025-05-10",
+    "sha1": "39cd5b68947f4ce56c02da1b89b6e2e59e153e7e"
+  },
+  "support": {
+    "link": "https://discord.gg/naUCmPKPQD"
+  }
+}
